@@ -14,8 +14,11 @@ MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.
 ![NEMO](./img/schematic.png) *Schematic of NEMO panel design,
 validation, and application*
 
-*Important note: we currently cannot disclose the panel design including
-detailed informations about out regions and their usage for inference*
+**Important note**: 
+This repository is only for evaluation.
+We currently cannot disclose the panel design, including detailed informations about out regions and their usage for tumor content estimation and PE score inference. 
+For this reason, the object `NEMOcode::panel_design` is not included and the presented code can't be executed.
+**
 
 ## Description
 
