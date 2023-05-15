@@ -17,7 +17,7 @@ validation, and application*
 **Important note**: 
 This repository is only for evaluation before publication.
 We currently cannot disclose the panel design, including detailed informations about out regions and their usage for tumor content estimation and PE score inference. 
-For this reason, the object `NEMOcode::panel_design` is not included and the presented code can't be executed.
+For this reason, the object `NEMOcode::panel_design` is not included.
 
 
 ## Description
